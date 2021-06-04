@@ -1,9 +1,0 @@
-{
-	"folders": [
-		{
-			"uri": "vscode-remote://wsl+ubuntu-20.04/home/monkeytech/Dojo/rust_ground/week%231"
-		}
-	],
-	"remoteAuthority": "wsl+Ubuntu-20.04",
-	"settings": {}
-}
