@@ -7,6 +7,18 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
 
 [[package]]
+name = "data_types"
+version = "0.1.0"
+
+[[package]]
+name = "divisible_not"
+version = "0.1.0"
+
+[[package]]
+name = "dna_rna"
+version = "0.1.0"
+
+[[package]]
 name = "getrandom"
 version = "0.2.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -79,6 +91,10 @@ checksum = "3190ef7066a446f2e7f42e239d161e905420ccab01eb967c9eb27d21b2322a73"
 dependencies = [
  "rand_core",
 ]
+
+[[package]]
+name = "reverse_num"
+version = "0.1.0"
 
 [[package]]
 name = "wasi"

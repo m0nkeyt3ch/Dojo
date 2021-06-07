@@ -2,5 +2,9 @@
 
 members = [
     "hello_cargo",
-    "guess_game"
+    "guess_game",
+    "data_types",
+    "divisible_not",
+    "reverse_num",
+    "dna_rna"
 ]
