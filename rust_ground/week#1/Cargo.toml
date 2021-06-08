@@ -6,5 +6,6 @@ members = [
     "data_types",
     "divisible_not",
     "reverse_num",
-    "dna_rna"
+    "dna_rna",
+    "gen_int"
 ]
