@@ -7,5 +7,10 @@ members = [
     "divisible_not",
     "reverse_num",
     "dna_rna",
-    "gen_int"
+    "gen_int",
+    "bmi_cal",
+    "if_else",
+    "return_string",
+    "repeat_str",
+    "remove_char"
 ]
