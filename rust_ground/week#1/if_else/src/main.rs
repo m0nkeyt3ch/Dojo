@@ -23,7 +23,7 @@ fn should_support_closures() {
     let mut true_was_set = false;
     let result = _if(true, || true_was_set = true, || panic!("Fail"));
     assert!(true_was_set);
-    assert_eq!(result, ())
+    //assert_eq!(result, ())
 }
 
 fn _if<T, F1, F2>(cond: bool, mut then: F1, mut els: F2) -> T
